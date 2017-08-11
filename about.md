@@ -7,14 +7,18 @@ permalink: /about/
 Intro. 
 
 
-- Hello! My name is Lear or you can call me Kai
+- Hello! My name is Lear/Kai
 
 
 Links.
 
 
 - [Youtube](https://www.youtube.com/c/Learmirror)
-- Battle.net id: Mirror#1748
+- Battle.net: Mirror#1748
+- Discord: Lear#6106
+
+
+![]({{site.baseurl}}/images/Untitled.png)
 
 
 Vida is a minimalist jekyll theme.
