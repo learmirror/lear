@@ -4,18 +4,18 @@ title:     About
 permalink: /about/
 ---
 
-Intro. 
+#Intro. 
 
 
 - Hello! My name is Lear/Kai
 
 
-Links.
+##Links.
 
 
 - [Youtube](https://www.youtube.com/c/Learmirror)
-- Battle.net: Mirror#1748
-- Discord: Lear#6106
+- Battle.net: **Mirror#1748**
+- Discord: **Lear#6106**
 
 
 ![]({{site.baseurl}}/images/Untitled.png)
