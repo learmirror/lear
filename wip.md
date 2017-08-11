@@ -6,4 +6,4 @@ permalink: /wip/
 
 Still thinking about what to put here... 
 
-![](/vida/images/eJ0FHPO7.gif)
+![]({{site.baseurl}}/images/eJ0FHPO7.gif)
