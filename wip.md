@@ -1,6 +1,6 @@
 ---
 layout:    page
-title:     wip
+title:     Wip
 permalink: /wip/
 ---
 
