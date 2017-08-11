@@ -4,13 +4,13 @@ title:     About
 permalink: /about/
 ---
 
-#Intro. 
+# Intro. 
 
 
 - Hello! My name is Lear/Kai
 
 
-##Links.
+## Links.
 
 
 - [Youtube](https://www.youtube.com/c/Learmirror)
