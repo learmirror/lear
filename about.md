@@ -20,7 +20,7 @@ Links.
 
 ![]({{site.baseurl}}/images/Untitled.png)
 
-
+-----------------------
 Vida is a minimalist jekyll theme.
 
 
