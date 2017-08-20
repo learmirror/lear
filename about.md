@@ -18,7 +18,7 @@ permalink: /about/
 - Discord: **Lear#6106**
 
 
-![]({{site.baseurl}}/images/Untitled.png)
+![]({{site.baseurl}}/images/amazarashi-colour.jpg)
 
 -----------------------
 Vida is a minimalist jekyll theme.
