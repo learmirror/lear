@@ -15,7 +15,7 @@ permalink: /about/
 
 - [Youtube](https://www.youtube.com/c/Learmirror)
 - Battle.net: **Mirror#1748**
-- Discord: **Lear#6106**
+- Discord: **Lear#9035**
 
 
 ![]({{site.baseurl}}/images/amazarashi-colour.jpg)
