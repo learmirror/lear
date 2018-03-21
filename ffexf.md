@@ -27,7 +27,22 @@ Gil Shop
 Crystal Shop
 
 -----------------------
+![]({{site.baseurl}}/images/ffexf_6.png)
+Gacha
 
+-----------------------
+![]({{site.baseurl}}/images/ffexf_7.png)
+Shortcut Creation
+
+-----------------------
+![]({{site.baseurl}}/images/ffexf_8.png)
+Bag
+
+-----------------------
+![]({{site.baseurl}}/images/ffexf_9.png)
+Equipment
+
+-----------------------
 -----------------------
 # Credits:
 
