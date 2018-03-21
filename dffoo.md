@@ -63,7 +63,7 @@ Sorting Equipment
 -----------------------
 # Credits:
 
-Translators: Gyproc#57x3, yagaru#80x6
-Editors: Lear#9035, Raykusen#00x2
+Translators: Gyproc, yagaru
+Editors: Lear, Raykusen
 
- [DFFOO Discord Server](https://discordapp.com/invite/ypqyXdA)
+ [DFFOO Discord Server](https://discordapp.com/invite/dffoo)
